@@ -2,11 +2,12 @@
 
 Instruction To use quiz App
 
-1: Press The start Button to start quiz.
+- 1: Press The start Button to start quiz.
 - 2: If the correct answer is selected it will show pop up for correct answer and option will turn green color.
 - 3: After the pop up appears Press the Next question button to view new quiz question.
-4: If the wrong answer is press the option will turn red and if Two wrong answer will selected the result page will appears that user is failed in quiz.
-5: After Failed press the back button for new quiz.
+- 4: If the wrong answer is press the option will turn red and if Two wrong answer will selected the result page will appears that user 
+   is failed in quiz.
+- 5: After Failed press the back button for new quiz.
 
 ## Getting Started
 
